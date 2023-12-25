@@ -1,0 +1,12 @@
+{
+  "name": "playlist2",
+  "songs": [
+    {
+      "title": "Chilled",
+      "genre": "insturment",
+      "artist": "Pixabay",
+      "album": "Chill music",
+      "path": "src/main/resources/SongsMp3/chilled.mp3"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Playlist1",
+  "songs": [
+    {
+      "title": "Study in a minor",
+      "genre": "unknown",
+      "artist": "Pixabay",
+      "album": "Chill muisc",
+      "path": "src/main/resources/SongsMp3/studyinaminor.mp3"
+    },
+    {
+      "title": "In the forest",
+      "genre": "unknown",
+      "artist": "Pixabay",
+      "album": "Insturment",
+      "path": "src/main/resources/SongsMp3/intheforest.mp3"
+    },
+    {
+      "title": "Impressions",
+      "genre": "insturment",
+      "artist": "Pixabay",
+      "album": "Chill music",
+      "path": "src/main/resources/SongsMp3/impressions.mp3"
+    },
+    {
+      "title": "Chilled",
+      "genre": "insturment",
+      "artist": "Pixabay",
+      "album": "Chill music",
+      "path": "src/main/resources/SongsMp3/chilled.mp3"
+    },
+    {
+      "title": "Lost in love",
+      "genre": "romantic",
+      "artist": "Pixabay",
+      "album": "Chill music",
+      "path": "src/main/resources/SongsMp3/lost-love-21888.mp3"
+    }
+  ]
+}
